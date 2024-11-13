@@ -184,6 +184,12 @@
         "capital": "Thừa Thiên-Huế",
         "lat": "16.333",
         "long": "107.583"
+        },
+    "TTHA": {
+        "name": "Thua Thien Hai",
+        "capital": "Thua Thien Hai",
+        "lat": "16.22",
+        "long": "108.03"
     },
     "DLK": {
         "name": "Đắk Lắk",
@@ -250,6 +256,12 @@
         "capital": "Quảng Nam",
         "lat": "15.58333",
         "long": "107.91667"
+    },
+    "Ha": {
+        "name": "Hoi AN",
+        "capital": "Hoi AN",
+        "lat": "15.88",
+        "long": "108.33"    
     },
     "QN": {
         "name": "Quảng Ngãi",
